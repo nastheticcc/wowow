@@ -1,0 +1,12 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f56ea4; 
+  font-family: "Poppins", sans-serif;
+  color: #333;
+}
